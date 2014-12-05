@@ -1,0 +1,1005 @@
+{
+    "metros": [
+        {
+            "code": "591", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Advanced Seminar",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "555", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Numerical Methods for PDEs",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "199", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Undergraduate Open Seminar",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "210", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Ethical & Professional Issues",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "450", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Numerical Analysis",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "598", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Special Topics",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "196", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Freshman Honors",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "576", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Topics in Automated Deduction",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "397", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Individual Study",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "499", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Senior Thesis",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "494", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Senior Project II",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "173", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Discrete Structures",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "491", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Seminar",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "233", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Computer Architecture",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "519", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Scientific Visualization",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "484", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Parallel Programming",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "597", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Individual Study",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "525", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Advanced Distributed Systems",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "599", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Thesis Research",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "579", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Computational Complexity",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "429", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Software Engineering II, ACP",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "428", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Software Engineering II",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "526", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Advanced Compiler Construction",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "421", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Progrmg Languages & Compilers",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "533", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Parallel Computer Architecture",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "423", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Operating Systems Design",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "422", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Programming Language Design",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "425", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Distributed Systems",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "536", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Fault-Tolerant Dig Syst Design",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "477", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Formal Software Devel Methods",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "466", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Introduction to Bioinformatics",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "465", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "User Interface Design",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "440", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Artificial Intelligence",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "461", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Computer Security I",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "446", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Machine Learning",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "463", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Computer Security II",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "460", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Security Laboratory",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "511", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Advanced Data Management",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "241", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "System Programming",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "125", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Intro to Computer Science",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "242", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Programming Studio",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "225", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Data Structures",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "101", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Intro Computing: Engrg & Sci",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "482", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Simulation",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "105", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Intro Computing: Non-Tech",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "493", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Senior Project II, ACP",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "543", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Computer Vision",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "357", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Numerical Methods I",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "473", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Fundamental Algorithms",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "548", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Models of Cognitive Processes",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "410", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Text Information Systems",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "411", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Database Systems",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "438", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Communication Networks",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "413", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Intro to Combinatorics",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "296", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Honors Course",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "498", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Special Topics",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "512", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Data Mining Principles",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "418", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Interactive Computer Graphics",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "433", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Computer System Organization",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }, 
+        {
+            "code": "431", 
+            "continent": null, 
+            "coordinates": null, 
+            "country": null, 
+            "name": "Embedded Systems",
+            "population": null, 
+            "region": null, 
+            "timezone": null
+        }
+    ], 
+    "routes": [
+        {
+            "distance": 1, 
+            "ports": [
+                "555", 
+                "450"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "555", 
+                "457"
+            ]
+        },
+        {
+            "distance": 1, 
+            "ports": [
+                "210", 
+                "225"
+            ]
+        },
+        {
+            "distance": 1, 
+            "ports": [
+                "450", 
+                "101"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "450", 
+                "125"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "450", 
+                "357"
+            ]
+        },
+        {
+            "distance": 1, 
+            "ports": [
+                "494", 
+                "492"
+            ]
+        },
+        {
+            "distance": 1, 
+            "ports": [
+                "173", 
+                "101"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "173", 
+                "125"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "233", 
+                "125"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "233", 
+                "173"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "233", 
+                "225"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "519", 
+                "418"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "484", 
+                "241"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "525", 
+                "423"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "525", 
+                "425"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "525", 
+                "438"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "579", 
+                "473"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "579", 
+                "475"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "429", 
+                "427"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "428", 
+                "427"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "526", 
+                "426"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "421", 
+                "233"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "421", 
+                "373"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "533", 
+                "433"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "423", 
+                "241"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "422", 
+                "421"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "425", 
+                "241"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "477", 
+                "225"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "477", 
+                "373"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "466", 
+                "225"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "465", 
+                "225"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "440", 
+                "225"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "461", 
+                "241"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "446", 
+                "373"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "446", 
+                "440"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "463", 
+                "461"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "463", 
+                "475"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "460", 
+                "461"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "511", 
+                "411"
+            ]
+        },
+        {
+            "distance": 1, 
+            "ports": [
+                "241", 
+                "225"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "241", 
+                "233"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "242", 
+                "241"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "225", 
+                "125"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "225", 
+                "173"
+            ]
+        },
+        {
+            "distance": 1, 
+            "ports": [
+                "493", 
+                "492"
+            ]
+        },
+        {
+            "distance": 1, 
+            "ports": [
+                "357", 
+                "450"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "473", 
+                "373"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "548", 
+                "440"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "548", 
+                "446"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "410", 
+                "225"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "411", 
+                "225"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "438", 
+                "241"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "512", 
+                "412"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "418", 
+                "225"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "433", 
+                "233"
+            ]
+        }, 
+        {
+            "distance": 1, 
+            "ports": [
+                "431", 
+                "241"
+            ]
+        }
+    ]
+}
