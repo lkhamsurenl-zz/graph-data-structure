@@ -1,4 +1,4 @@
-Graph Data Structure
+graph-data-structure
 
 =====
 
